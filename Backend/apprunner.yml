@@ -1,0 +1,4 @@
+version: 1.0
+run:
+  runtime: NODEJS_18
+  command: npm start
